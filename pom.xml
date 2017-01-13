@@ -24,5 +24,16 @@
       <artifactId>ejml</artifactId>
       <version>0.25</version>
     </dependency>
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.17</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency> 
+      <groupId>regexp</groupId>
+      <artifactId>regexp</artifactId>
+      <version>1.2</version>
+    </dependency>
   </dependencies>
 </project>
